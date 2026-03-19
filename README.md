@@ -12,6 +12,7 @@ The core algorithm is implemented from scratch inside the **robomimic** training
 - **CFG-guided DDIM sampling** that enables generalization to unseen execution parameters at inference time
 - A custom **box-push environment** built on top of robosuite for controlled distance-conditioned data collection using Phantom Omni
 
+Video demo is available at https://drive.google.com/file/d/156xsvM7XtTVy4jLJLRHXtWwZfg7KLtQ5/view?usp=sharing
 ***
 
 ## Codebase Structure
